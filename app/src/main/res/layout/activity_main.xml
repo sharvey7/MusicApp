@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+
+    <TextView
+        android:layout_height="130dp"
+        android:layout_width="match_parent"
+        android:id="@+id/ella1"
+        android:background="@drawable/ella"
+        android:text="@string/ella"
+        android:textStyle="bold"
+        android:textColor="#FFFF"
+        />
+    <TextView
+        android:layout_height="130dp"
+        android:layout_width="match_parent"
+        android:id="@+id/raye2"
+        android:background="@drawable/raye"
+        android:text="@string/raye"
+        android:textStyle="bold"
+        />
+
+    <TextView
+
+        android:layout_height="130dp"
+        android:layout_width="match_parent"
+        android:id="@+id/stef3"
+        android:background="@drawable/stef"
+        android:text="@string/stef"
+        android:textStyle="bold"
+
+        />
+
+    <TextView
+        android:layout_height="130dp"
+        android:layout_width="match_parent"
+        android:id="@+id/mabel4"
+        android:background="@drawable/mabel"
+        android:text="@string/mabel"
+        android:textStyle="bold"
+        />
+
+
+
+
+</LinearLayout>
